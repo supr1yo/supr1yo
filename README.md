@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=courier&weight=600&pause=1000&color=0464FC&width=435&lines=Welcome+visitor!)](https://git.io/typing-svg)
 - 👋 Hi, I’m @supr1yo
 - 👀 I’m interested in Gaming and Coding
 - 🌱 I’m currently learning nothing
