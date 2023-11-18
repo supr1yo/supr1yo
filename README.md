@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Supriyo</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate self-taught Web Dev from West Bengal, India.</h3>
 
 - 🌱 I’m currently learning **C/C++**
 
