@@ -8,9 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/supr1yo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="supr1yo" height="30" width="40" /></a>
-<a href="https://twitter.com/sxpr1yo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wtfsupriyo" height="30" width="40" /></a>
-<a href="https://instagram.com/sxpr1yo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wtfsupriyo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/supr1yo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supr1yo" height="30" width="40" /></a>
+<a href="https://twitter.com/supriyojs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wtfsupriyo" height="30" width="40" /></a>
 <a href="https://discord.gg/8Hc3axAEdW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8Hc3axAEdW" height="30" width="40" /></a>
 </p>
 
@@ -27,7 +25,7 @@
 ![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,flask)
 
 ### Database
-![Database](https://skillicons.dev/icons?i=mysql,mongodb)
+![Database](https://skillicons.dev/icons?i=mysql,mongodb,firebase)
 
 ### Design & Creativity
 ![Design & Creativity](https://skillicons.dev/icons?i=figma,ps,ae)
