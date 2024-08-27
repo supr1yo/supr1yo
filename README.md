@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Supriyo</h1>
 <h3 align="center">A passionate self-taught Web Dev from West Bengal, India.</h3>
 
-- 🌱 I’m currently learning **C/C++**
+- 🌱 I’m currently learning **DSA in C & Python**
 
 - 📫 How to reach me **supr1yo@proton.me**
 
