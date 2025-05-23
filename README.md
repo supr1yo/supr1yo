@@ -1,11 +1,12 @@
 <h1 align="center">Hello 👋, I'm Supriyo</h1>
-<h3 align="center">A passionate self-taught Web Dev from West Bengal, India.</h3>
+<h3 align="center">A Backend Developer and Tech Enthusiast from Kolkata.</h3>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Data Structures and Algorithms (DSA)**.
+- 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/supr1yo)
+- 👾 Join my [Discord Server](https://discord.gg/jaGgq5pJ7D)
+- 🌐 Check out my [Website](https://supr1yo.vercel.app/)
 
-- 📫 How to reach me **supriyokumaraich@gmail.com**
-
-
+- 📫 How to reach me: **supriyokumaraich@gmail.com**
 
 ## Skills
 
