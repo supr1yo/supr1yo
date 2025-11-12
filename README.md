@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Supriyo</h1>
 <h3 align="center">A Backend Developer and Tech Enthusiast from Kolkata.</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms (DSA)**.
+- 🌱 Building AI Automation and Workflows for [NeoDev Studio](www.neodevstudio.com)
 - 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/supr1yo)
 - 👾 Join my [Discord Server](https://discord.gg/jaGgq5pJ7D)
 - 🌐 Check out my [Website](https://supr1yo.vercel.app/)
