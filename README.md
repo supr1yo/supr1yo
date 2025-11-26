@@ -1,29 +1,45 @@
-<h1 align="center">Hello 👋, I'm Supriyo!</h1>
-<h3 align="center">AI Automation & Worklow / Backend / Gaming </h3>
 
-- 🌱 Currently working as Workflow Automation and Backend Developer at [NeoDev Studio](www.neodevstudio.com)
-- 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/supr1yo)
-- 🌐 Check out my [Website](https://supr1yo.vercel.app/)
+```
+             *     ,MMM8&&&.            *
+                  MMMM88&&&&&    .
+                 MMMM88&&&&&&&
+     *           MMM88&&&&&&&&
+                 MMM88&&&&&&&&
+                 'MMM88&&&&&&'
+                   'MMM8&&&'      *
+          |\___/|
+          )     (             .              '
+         =\     /=
+           )===(       *
+          /     \
+          |     |
+         /       \
+         \       /
+  _/\_/\_/\__  _/_/\_/\_/\_/\_/\_/\_/\_/\_/\_
+  |  |  |  |( (  |  |  |  |  |  |  |  |  |  |
+  |  |  |  | ) ) |  |  |  |  |  |  |  |  |  |
+  |  |  |  |(_(  |  |  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ ```
+## Hello 👋🏻
+I am Supriyo, a novice programmer based in India, currently working as an automation workflow builder using n8n at <a href='https://www.neodevstudio.com'>NeoDev Studio</a>
 
-- 📫 How to reach me: **supriyokumaraich@gmail.com**
+## Connect with me
+<div>
+	<a href='https://discord.com/users/427077676235489291'>
+		<img src='https://img.shields.io/badge/Discord-supr1yo-7289DA?logo=discord&logoColor=7289DA&logoWidth=30&labelColor=black&style=flat' alt='Discord - supr1yo'>
+	</a>
+	&emsp;
+	<a href='mailto:supriyo@neodevstudio.com'>
+		<img src='https://img.shields.io/badge/Email-supriyo@neodevstudio.com-EA4335?logo=gmail&logoColor=EA4335&logoWidth=30&labelColor=black&style=flat' alt='supriyo@neodevstudio.com'>
+	</a>
+  &emsp;
+	<a href='https://x.com/sxpriyo'>
+		<img src='https://img.shields.io/badge/sxpriyo-ffffff?logo=X&logoColor=ffffff&logoWidth=30&labelColor=black&style=flat' alt='sxpriyo'>
+	</a>
+</div>
 
-## Skills
 
-### Programming languages
-![Languages](https://skillicons.dev/icons?i=js,ts,py,c,cpp,java)
-
-
-### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,next,django,html,css,bootstrap,tailwind)
-
-### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,flask,fastapi)
-
-### Database
-![Database](https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase)
-
-### Design & Creativity
-![Design & Creativity](https://skillicons.dev/icons?i=figma,ps,ae)
-
-### Other Technologies
-![Other Technologies](https://skillicons.dev/icons?i=vscode,git,github,linux,postman,firebase,arduino)
+## Tech stack
+![Languages](https://skillicons.dev/icons?i=js,py,java,react,nodejs,express,flask,fastapi,mongodb,supabase,mysql,vscode,git,linux)
